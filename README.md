@@ -8,6 +8,7 @@ The present model builds upon the foundational principles of the Schelling model
 * The structure of the repository is as follows:
    * Model.py contains all the python script for the setup of the model
    * Server.py contains all the python script for seting up and running a server.
+   * requirement.text contains all the required libraries.
 
 
 ## Installation

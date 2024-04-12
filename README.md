@@ -6,8 +6,8 @@ The present model builds upon the foundational principles of the Schelling model
 ### Github Navigation Steps  
 * First clone the repository at your local machine.
 * The structure of the repository is as follows:
-   * Model.py contains all the python script for the setup of the model
-   * Server.py contains all the python script for seting up and running a server.
+   * model.py contains all the python script for the setup of the model
+   * server.py contains all the python script for seting up and running a server.
    * requirement.text contains all the required libraries.
 
 
